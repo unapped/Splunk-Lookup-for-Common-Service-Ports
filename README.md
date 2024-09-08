@@ -12,3 +12,5 @@ having a definition allow you to enter
 and get a description
 
 ENJOY
+
+PS: This is file was created with some nice regex parsing /etc/services 
